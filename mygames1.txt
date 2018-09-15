@@ -1,0 +1,11 @@
+player:
+card1:5
+card2:10
+card3:10
+
+dealer:
+card1:1
+card2:6
+card3:10
+
+The dealer wins!

@@ -1,0 +1,11 @@
+player:
+card1:4
+card2:4
+card3:9
+
+dealer:
+card1:10
+card2:3
+card3:4
+
+It's a push!
